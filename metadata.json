@@ -1,0 +1,6 @@
+{
+  "name": "MedRed ASIS - Historias Clínicas y Epidemiología",
+  "description": "Sistema integral de gestión de historias clínicas, verificación farmacológica, trazabilidad intercentros de salud, análisis de situación de salud (ASIS) y estadísticas epidemiológicas con exportación Excel y PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
